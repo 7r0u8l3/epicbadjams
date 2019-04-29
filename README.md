@@ -1,3 +1,4 @@
-## Work in progress, thanks for your patience. 
+## Epic Bad Jams!!!
 
+Music is fun. Come play. 
 
