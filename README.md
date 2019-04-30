@@ -1,8 +1,8 @@
 
 Index of /
 
-    [Link Text]([http://epicbadjams.com/%232.wav)
-    [Link Text]([http://epicbadjams.com/17.wav)
+    http://epicbadjams.com/%232.wav
+    http://epicbadjams.com/17.wav
     19 v2.wav
     19 v3.wav
     19 v4.wav
